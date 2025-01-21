@@ -1,0 +1,85 @@
+# Общие исключения для всех ОС
+.DS_Store
+Thumbs.db
+
+# Rider
+.idea/
+.idea_modules/
+*.iml
+
+# Visual Studio/IDE
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.zip
+*.log
+*.vspscc
+*.vssscc
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.nuget.props
+*.nuget.targets
+
+# ASP.NET
+appsettings.*.json
+
+# Publish Output
+wwwroot/
+dist/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*.idb
+*.ilk
+*.obj
+*.pch
+*.pdb
+*.tlog
+*.lst
+
+# Rider-specific file storage
+.idea/
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/dictionaries
+.idea/libraries
+.idea/shelf/
+.idea/tasks/
+
+# Exclude Rider's run configurations
+.idea/runConfigurations/
+
+# Rider caches
+.idea/.idea_modules/
+.idea/httpRequests/
+.idea/assetWizard/
+.idea/methodsMap.xml
+.idea/nodes
+.idea/caches/
+.idea/inspectionProfiles/
+
+# Local tool settings
+*.DotSettings.user
