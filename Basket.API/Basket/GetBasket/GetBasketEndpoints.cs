@@ -5,7 +5,7 @@ using MediatR;
 
 namespace Basket.API.Basket.GetBasket;
 
-public record GetBasketRequest(string UserName);
+/*public record GetBasketRequest(string UserName);*/
 public record GetBasketResponse(ShoppingCart Cart);
 
 public class GetBasketEndpoints : ICarterModule
@@ -20,7 +20,7 @@ public class GetBasketEndpoints : ICarterModule
             
             return Results.Ok(res);
         })
-        .WithName("CreateProduct")
+        .WithName("Get basket")
         .Produces<GetBasketResponse>(StatusCodes.Status201Created)
         .Produces(StatusCodes.Status400BadRequest)
         .WithSummary("Get Product By ID")

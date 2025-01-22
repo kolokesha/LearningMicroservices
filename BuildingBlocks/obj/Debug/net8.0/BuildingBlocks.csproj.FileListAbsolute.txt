@@ -10,3 +10,4 @@ C:\Users\Alexey.Kolomeitsev\RiderProjects\LearningMicroservices\BuildingBlocks\o
 C:\Users\Alexey.Kolomeitsev\RiderProjects\LearningMicroservices\BuildingBlocks\obj\Debug\net8.0\refint\BuildingBlocks.dll
 C:\Users\Alexey.Kolomeitsev\RiderProjects\LearningMicroservices\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.pdb
 C:\Users\Alexey.Kolomeitsev\RiderProjects\LearningMicroservices\BuildingBlocks\obj\Debug\net8.0\ref\BuildingBlocks.dll
+C:\Users\Alexey.Kolomeitsev\RiderProjects\LearningMicroservices\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.sourcelink.json
