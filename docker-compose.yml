@@ -9,6 +9,9 @@ services:
 
   distributedcache:
     image: redis
+    
+  orderdb:
+    image: mcr.microsoft.com/mssql/server:2022-latest
   
   catalog.api:
     image: ${DOCKER_REGISTRY-}catalogapi
@@ -31,9 +34,3 @@ services:
 volumes:
   postgres_catalog:
   postgres_basket:
-
-  ordering.api:
-    image: ordering.api
-    build:
-      context: .
-      dockerfile: Ordering.Api/Dockerfile
