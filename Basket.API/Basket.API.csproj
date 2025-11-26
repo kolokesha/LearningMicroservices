@@ -15,6 +15,7 @@
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\BuildingBlocksMessaging\BuildingBlocksMessaging.csproj" />
       <ProjectReference Include="..\BuildingBlocks\BuildingBlocks.csproj" />
       <ProjectReference Include="..\Discount.Grpc\Discount.Grpc.csproj" />
     </ItemGroup>

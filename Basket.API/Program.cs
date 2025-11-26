@@ -2,6 +2,7 @@ using Basket.API.Data;
 using Basket.API.Models;
 using BuildingBlocks.Behaviours;
 using BuildingBlocks.Exceptions.Handler;
+using BuildingBlocksMessaging.MassTransit;
 using Carter;
 using Discount.Grpc;
 using HealthChecks.UI.Client;
@@ -53,6 +54,8 @@ builder.Services.AddGrpcClient<DiscountProtoService.DiscountProtoServiceClient>(
         };
         return handler;
     }));
+
+builder.Services.AddMessageBroker(builder.Configuration);
 
 builder.Services.AddHealthChecks()
     .AddNpgSql(builder.Configuration.GetConnectionString("Database")!)
