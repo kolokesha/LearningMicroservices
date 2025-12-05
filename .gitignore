@@ -20,6 +20,7 @@ project.assets.json
 .idea/
 *.sln.iml
 *.rider.project
+.run/
 
 # Visual Studio/IDE
 .vs/
