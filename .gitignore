@@ -8,10 +8,6 @@ Thumbs.db
 *.iml
 **/obj/
 
-# .NET build artifacts
-obj/
-bin/
-
 # NuGet
 *.nuget.cache
 project.assets.json
