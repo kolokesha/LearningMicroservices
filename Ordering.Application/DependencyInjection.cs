@@ -3,6 +3,7 @@ using BuildingBlocks.Behaviours;
 using BuildingBlocksMessaging.MassTransit;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.FeatureManagement;
 using Ordering.Application.Data;
 using Ordering.Infrastructure.Data;
 
@@ -20,6 +21,7 @@ public static class DependencyInjection
         });
 
         services.AddScoped<IApplicationDbContext, ApplicationDbContext>();
+        services.AddFeatureManagement();
         services.AddMessageBroker(configuration, Assembly.GetExecutingAssembly());
         
         return services;

@@ -171,3 +171,5 @@ C:\Users\Alexey.Kolomeitsev\RiderProjects\LearningMicroservices\Catalog.API\obj\
 C:\Users\Alexey.Kolomeitsev\RiderProjects\LearningMicroservices\Catalog.API\obj\Debug\net8.0\Catalog.API.pdb
 C:\Users\Alexey.Kolomeitsev\RiderProjects\LearningMicroservices\Catalog.API\obj\Debug\net8.0\Catalog.API.genruntimeconfig.cache
 C:\Users\Alexey.Kolomeitsev\RiderProjects\LearningMicroservices\Catalog.API\obj\Debug\net8.0\ref\Catalog.API.dll
+C:\Users\Alexey.Kolomeitsev\RiderProjects\LearningMicroservices\Catalog.API\bin\Debug\net8.0\Microsoft.FeatureManagement.dll
+C:\Users\Alexey.Kolomeitsev\RiderProjects\LearningMicroservices\Catalog.API\bin\Debug\net8.0\Microsoft.FeatureManagement.AspNetCore.dll

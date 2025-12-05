@@ -217,3 +217,11 @@ C:\Users\Alexey.Kolomeitsev\RiderProjects\LearningMicroservices\Basket.API\obj\D
 C:\Users\Alexey.Kolomeitsev\RiderProjects\LearningMicroservices\Basket.API\obj\Debug\net8.0\Basket.API.pdb
 C:\Users\Alexey.Kolomeitsev\RiderProjects\LearningMicroservices\Basket.API\obj\Debug\net8.0\Basket.API.genruntimeconfig.cache
 C:\Users\Alexey.Kolomeitsev\RiderProjects\LearningMicroservices\Basket.API\obj\Debug\net8.0\ref\Basket.API.dll
+C:\Users\Alexey.Kolomeitsev\RiderProjects\LearningMicroservices\Basket.API\bin\Debug\net8.0\MassTransit.dll
+C:\Users\Alexey.Kolomeitsev\RiderProjects\LearningMicroservices\Basket.API\bin\Debug\net8.0\MassTransit.Abstractions.dll
+C:\Users\Alexey.Kolomeitsev\RiderProjects\LearningMicroservices\Basket.API\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+C:\Users\Alexey.Kolomeitsev\RiderProjects\LearningMicroservices\Basket.API\bin\Debug\net8.0\Microsoft.FeatureManagement.dll
+C:\Users\Alexey.Kolomeitsev\RiderProjects\LearningMicroservices\Basket.API\bin\Debug\net8.0\Microsoft.FeatureManagement.AspNetCore.dll
+C:\Users\Alexey.Kolomeitsev\RiderProjects\LearningMicroservices\Basket.API\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Alexey.Kolomeitsev\RiderProjects\LearningMicroservices\Basket.API\bin\Debug\net8.0\BuildingBlocksMessaging.dll
+C:\Users\Alexey.Kolomeitsev\RiderProjects\LearningMicroservices\Basket.API\bin\Debug\net8.0\BuildingBlocksMessaging.pdb

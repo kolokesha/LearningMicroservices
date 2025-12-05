@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LWos3cOY7Ao=",
+  "dgSpecHash": "qm9weOrjXyo=",
   "success": true,
   "projectFilePath": "C:\\Users\\Alexey.Kolomeitsev\\RiderProjects\\LearningMicroservices\\Basket.API\\Basket.API.csproj",
   "expectedPackageFiles": [
@@ -57,7 +57,9 @@
     "C:\\Users\\Alexey.Kolomeitsev\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Alexey.Kolomeitsev\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
     "C:\\Users\\Alexey.Kolomeitsev\\.nuget\\packages\\microsoft.extensions.caching.stackexchangeredis\\8.0.1\\microsoft.extensions.caching.stackexchangeredis.8.0.1.nupkg.sha512",
+    "C:\\Users\\Alexey.Kolomeitsev\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.1\\microsoft.extensions.configuration.2.1.1.nupkg.sha512",
     "C:\\Users\\Alexey.Kolomeitsev\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Alexey.Kolomeitsev\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.1.10\\microsoft.extensions.configuration.binder.2.1.10.nupkg.sha512",
     "C:\\Users\\Alexey.Kolomeitsev\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\Alexey.Kolomeitsev\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Alexey.Kolomeitsev\\.nuget\\packages\\microsoft.extensions.dependencymodel\\8.0.0\\microsoft.extensions.dependencymodel.8.0.0.nupkg.sha512",
@@ -71,6 +73,8 @@
     "C:\\Users\\Alexey.Kolomeitsev\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Alexey.Kolomeitsev\\.nuget\\packages\\microsoft.extensions.options\\8.0.1\\microsoft.extensions.options.8.0.1.nupkg.sha512",
     "C:\\Users\\Alexey.Kolomeitsev\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Alexey.Kolomeitsev\\.nuget\\packages\\microsoft.featuremanagement\\3.2.0\\microsoft.featuremanagement.3.2.0.nupkg.sha512",
+    "C:\\Users\\Alexey.Kolomeitsev\\.nuget\\packages\\microsoft.featuremanagement.aspnetcore\\3.2.0\\microsoft.featuremanagement.aspnetcore.3.2.0.nupkg.sha512",
     "C:\\Users\\Alexey.Kolomeitsev\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
     "C:\\Users\\Alexey.Kolomeitsev\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
     "C:\\Users\\Alexey.Kolomeitsev\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512",

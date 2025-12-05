@@ -8,6 +8,19 @@ Thumbs.db
 *.iml
 **/obj/
 
+# .NET build artifacts
+obj/
+bin/
+
+# NuGet
+*.nuget.cache
+project.assets.json
+
+# Rider / IntelliJ
+.idea/
+*.sln.iml
+*.rider.project
+
 # Visual Studio/IDE
 .vs/
 *.suo
