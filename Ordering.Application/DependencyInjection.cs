@@ -4,8 +4,6 @@ using BuildingBlocksMessaging.MassTransit;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.FeatureManagement;
-using Ordering.Application.Data;
-using Ordering.Infrastructure.Data;
 
 namespace Ordering.Application;
 
@@ -20,7 +18,7 @@ public static class DependencyInjection
             config.AddOpenBehavior(typeof(LoggingBehavior<,>));
         });
 
-        services.AddScoped<IApplicationDbContext, ApplicationDbContext>();
+        
         services.AddFeatureManagement();
         services.AddMessageBroker(configuration, Assembly.GetExecutingAssembly());
         

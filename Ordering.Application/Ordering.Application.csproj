@@ -10,7 +10,6 @@
       <ProjectReference Include="..\BuildingBlocksMessaging\BuildingBlocksMessaging.csproj" />
       <ProjectReference Include="..\BuildingBlocks\BuildingBlocks.csproj" />
       <ProjectReference Include="..\Ordering.Domain\Ordering.Domain.csproj" />
-        <ProjectReference Include="..\Ordering.Infrastructure\Ordering.Infrastructure.csproj" />
     </ItemGroup>
 
     <ItemGroup>
